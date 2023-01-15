@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Engineer",
+        "company":"Larsen & Toubro Technology Services Pvt. Ltd.",
+        "summary":"\n- Structured use cases and proprietary messages of Cellular-Vehicle to Everything C-V2X client(Caterpillar) \n- Enhancement of Log analysis tool using Python incorporating 5G NSA variations in OTA logs \n- Application of Emergency Cell Broadcast System (CBS) via 5G modem to create alerting system for Google \n- Designed Embedded SIM (eSIM) implementation for a 5G enabled handset for Rakuten Mobile",
+        "range":"January 2021 - June 2022"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"R & D Intern",
+        "company":"Larsen & Toubro Technology Services Pvt. Ltd.",
+        "summary":"\n- Corner Case scenario and test case creation such as radio failure, data packet loss-retrieval as per 3GPP \n- Simulation of Over-the-Air test cases on Anritsu MT8000-A with SA and NSA base station models",
+        "range":"January 2020 - July 2020"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"R & D Intern",
+        "company":"Indian Institute of Technology, Bombay",
+        "summary":"\n- 'Thermoelectric Power Generator Belt' project to generate electricity via heat harvesting(Seebeck Effect) \n- Project and prototype was developed to address basic electrical needs of rural households \n- 'Mini Storage System for Vaccines/Medicines using TEC' project to convert solar energy into powering a Thermoelectric cooler - maintains the temps of Vaccine Storage using Peltier effect",
+        "range":"May 2019 - July 2019"
     }
 ]

@@ -2,7 +2,7 @@
 title: Creations
 date: 2020-01-07T15:00:28.528Z
 link: Not applicable
-image: /img/marketplace-summary.webp
+image: /img/SM.jpg
 description: Not applicable
 weight: 10
 sitemap:
@@ -17,4 +17,4 @@ This page represents the landing page for "creations" section. It is also shown 
 
 
 
-<p>A collection of projects authored by Eddie, and likely shared out with the community as an open source project.</p>
+<p>A collection of projects authored by Suraj, and likely shared out with the community as an open source project.</p>

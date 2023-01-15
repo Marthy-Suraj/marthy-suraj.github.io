@@ -1,29 +1,18 @@
 [
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C","C++","Java","Python","git","linux","bash"]
+      "skills":[ "C","C++","Java","Python","git","linux","bash","TTCN-3"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Softwares",
+      "skills":["Cadence","Altium Designer","MATLAB","Eagle CAD","Proteus","DS Catia v5","ANSYS","Github","VisualStudio" ]
   },
   {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+      "grouping":"Simulators, Microcontrollers",
+      "skills":["RPi Pico","QTPY RP2040","ArduCam Pico4ML","Anritsu MT8000-A / MD8475-B","Comprion CMW 500","UT3 Pro Test Bench"]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+    "grouping":"Areas of Interest",
+      "skills":["Electric Vehicles","Power Electronics","Process Engineering","Nanoscale Fabrication","MEMS & NEMS","Embedded Systems"]
   }
 ]

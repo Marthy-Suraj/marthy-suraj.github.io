@@ -17,9 +17,9 @@ phone = "929-613-7802"
 profileImage = "img/Profile.jpg"
 showEducation = true
 showExperience = true
-showOpenSource = true
+showOpenSource = false
 showProjects = true
-showPublications = true
+showPublications = false
 showQr = true
 showSkills = true
 
